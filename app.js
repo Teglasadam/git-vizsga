@@ -7,6 +7,11 @@ const audio = document.getElementById("audio");
 const title = document.getElementById("title");
 const cover = document.getElementById("cover");
 
+//Az oldal betöltődésekor kiírja a consolba a megadott szöveget.
+window.addEventListener("load", function(){
+    console.log("Az oldal sikeresen betöltődött");
+})
+
 //Zenék címei
 const songs = ["hey", "summer", "ukulele", "river"];
 
@@ -15,7 +20,6 @@ let songIndex = 2;
 
 //Zene adatainak betöltése a DOMba
 loadSong(songs[songIndex]);
-console.log("Az oldal sikeresen betöltődött");
 
 //Frissítjük a zenék adatait
 function loadSong(song){
