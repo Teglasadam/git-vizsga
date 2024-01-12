@@ -12,6 +12,11 @@ git branch console - Létrehozza a console nevű ágat.
 
 ○ Feladat kivitelezésének menete: 
 
-Leklónoztam saját gépre a vizsgafeladatot terminálból, majd ezután elindtottam a VSCodeot és létrehoztam a README.md fájlt amit sikeresen felcommitoltam. 
+
+Leklónoztam saját gépre a vizsgafeladatot terminálból, majd ezután elindtottam a VSCodeot és létrehoztam a README.md fájlt amit sikeresen felcommitoltam.
+
 A .gitignore fájl létrehozása után feltöltöttem a feladatban szereplő ignorációkkal majd szintén felcommitoltam.
-Ezután leelenőriztem milyen ágak vannak létrehozva. A main ágon kívül nem volt egyéb ág így létrehoztam a "console" ágat. Ezután egy ismételten sikeres commit következett.
+
+Ezután leelenőriztem milyen ágak vannak létrehozva. A main ágon kívül nem volt egyéb ág, így létrehoztam a "console" ágat. Ezután egy ismételten sikeres commit következett.
+
+
