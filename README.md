@@ -12,6 +12,12 @@ git branch - Kilistázza a meglévő ágakat.
 git branch console - Létrehozza a console nevű ágat.
 git checkout console - Belép a console ágba.
 
+git remote set-url origin https://github.com/Teglasadam/git-vizsga.git - a megadott URLre módosítja a a feltöltési útvonalat.
+
+git push --all origin - Minden ágat feltölt a megadott könyvtárba.
+
+git reset --soft azonostó - Ezzel kitörölgettem a felesleges README.md szükséges commitolására szolgáló verziókat.
+
 ○ Feladat kivitelezésének menete: 
 
 
@@ -25,8 +31,12 @@ Beléptem a console ágba.
 
 Módosítottam az app.js fájlt úgy, hogy az oldal betöltődésére írja ki a consoleba a megfelelő szöveget amit felcommitoltam.
 
-Módosítottam a style.css body részlegén belül az átmenetes háttérszínt aztán commitoltam.
+Módosítottam a style.css body részlegén belül az átmenetes háttérszínt aztán commitoltam.git remote 
+
+Módosítottam a feltöltési URLt.
 
 Végül feltöltöttem merge nélkül mindkét ágat a github könyvtáramba.
+
+Kiegészítésként kitöröltem a README.md módosítása miatt létrehozott commitokat. Illetve kitöltöttem a console ág README.md t az ott megtörtént változtatásokkal.
 
 
