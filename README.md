@@ -1,5 +1,6 @@
 ○ Vizsga során használt Git parancsok:
 
+
 git clone https://github.com/szabopeter92/git-vizsga -> Ezzel a paranccsal klónoztam le a vizsgafeladatot a saját gépemre.
 
 git status - Leellenőrzi a repository-ban fájlok állapotát.
@@ -20,6 +21,12 @@ A .gitignore fájl létrehozása után feltöltöttem a feladatban szereplő ign
 
 Ezután leelenőriztem milyen ágak vannak létrehozva. A main ágon kívül nem volt egyéb ág, így létrehoztam a "console" ágat. Ezután egy ismételten sikeres commit következett. 
 
-Beléptem a console ágba
+Beléptem a console ágba.
+
+Módosítottam az app.js fájlt úgy, hogy az oldal betöltődésére írja ki a consoleba a megfelelő szöveget amit felcommitoltam.
+
+Módosítottam a style.css body részlegén belül az átmenetes háttérszínt aztán commitoltam.
+
+Végül feltöltöttem merge nélkül mindkét ágat a github könyvtáramba.
 
 
