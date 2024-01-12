@@ -9,6 +9,7 @@ git add . - Hozzáadja az úgynevezett Stating Area- hoz az újonnan létrehozot
 
 git branch - Kilistázza a meglévő ágakat.
 git branch console - Létrehozza a console nevű ágat.
+git checkout console - Belép a console ágba.
 
 ○ Feladat kivitelezésének menete: 
 
@@ -17,6 +18,8 @@ Leklónoztam saját gépre a vizsgafeladatot terminálból, majd ezután elindto
 
 A .gitignore fájl létrehozása után feltöltöttem a feladatban szereplő ignorációkkal majd szintén felcommitoltam.
 
-Ezután leelenőriztem milyen ágak vannak létrehozva. A main ágon kívül nem volt egyéb ág, így létrehoztam a "console" ágat. Ezután egy ismételten sikeres commit következett.
+Ezután leelenőriztem milyen ágak vannak létrehozva. A main ágon kívül nem volt egyéb ág, így létrehoztam a "console" ágat. Ezután egy ismételten sikeres commit következett. 
+
+Beléptem a console ágba
 
 
